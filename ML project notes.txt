@@ -1,0 +1,17 @@
+
+452 rows
+
+280 variables = 279 independent + 1 dependent
+
+279 = 206 linear + 73 nominal
+
+      The aim is to determine the type of arrhythmia from 
+      the ECG recordings.
+
+	  The aim is to distinguish
+     between the presence and absence of cardiac arrhythmia and to
+     classify it in one of the 16 groups. Class 01 refers to 'normal'
+     ECG classes 02 to 15 refers to different classes of arrhythmia
+     and class 16 refers to the rest of unclassified ones.
+
+	 
